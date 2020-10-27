@@ -1,6 +1,6 @@
 # scriptable_fronius
 
-Basis ist das "pass.telekom" script <BR>
+Dieses Script wurde auf Basis des "pass.telekom" script erstellt <BR>
 
 
 1.) download script into scriptable <BR>
